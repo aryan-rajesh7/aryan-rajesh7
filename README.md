@@ -45,12 +45,6 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 
 ---
 
-## 📈 Current Focus
-
-I am currently working on scaling artificial intelligence applications, deepening my knowledge of cloud infrastructure, and integrating automation workflows using tools like n8n with Google Sheets and Calendly APIs.
-
----
-
 ## 📫 Let's Connect
 
 * **LinkedIn:** [Aryan Rajesh](https://www.linkedin.com/in/aryan-rajesh7)
