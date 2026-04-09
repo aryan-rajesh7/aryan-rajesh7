@@ -21,7 +21,7 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 | **Backend** | FastAPI, Uvicorn, Celery, Redis, pybind11, WebSockets |
 | **Frontend** | Next.js 14, React 18, Tailwind CSS, MapLibre GL JS |
 | **DevOps & Cloud** | Docker, GitHub Actions (CI/CD), Vercel, Hugging Face Spaces, Koyeb |
-| **Data & APIs** | TomTom Flow API, Nominatim Geocoding, OpenStreetMap |
+| **Data & APIs** | REST APIs, TomTom Flow API, Nominatim Geocoding, OpenStreetMap |
 
 ---
 
