@@ -12,7 +12,7 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 | **Machine Learning & AI** | PyTorch, XGBoost, ONNX, scikit-learn, NumPy, pandas, Google Gemini 2.5 Flash, RAG, LangChain |
 | **Backend** | FastAPI, Uvicorn, Celery, Redis, pybind11, WebSockets |
 | **Frontend** | Next.js 14, React 18, Tailwind CSS, MapLibre GL JS |
-| **DevOps & Cloud** | Docker, GitHub Actions (CI/CD), Vercel, Hugging Face Spaces, Koyeb |
+| **DevOps & Cloud** | Docker, GitHub Actions (CI/CD), Vercel, Hugging Face Spaces, Render, Koyeb |
 | **Data & APIs** | REST APIs, TomTom Flow API, Nominatim Geocoding, OpenStreetMap |
 
 ---
