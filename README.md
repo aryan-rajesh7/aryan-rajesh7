@@ -4,14 +4,6 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 
 ---
 
-## ⚡ Core Competencies
-
-* **Full-Stack AI Systems Design:** Connecting live APIs, asynchronous backends, and frontend dashboards with zero-latency streaming.
-* **Machine Learning Engineering:** Training, evaluating, and deploying time-series models (LSTM, XGBoost) and handling feature engineering.
-* **Production DevOps & Security:** Containerizing polyglot applications, building CI/CD pipelines, and securely managing encrypted secrets.
-
----
-
 ## 🛠️ Technical Stack
 
 | Category | Technologies |
