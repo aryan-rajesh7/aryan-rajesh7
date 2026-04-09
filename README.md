@@ -1,4 +1,4 @@
-# Hi there, I'm Aryan Rajesh 👋
+# Hello, I'm Aryan Rajesh 👋
 
 I am a Computer Science student at UC Irvine with a strong focus on architecting end-to-end AI applications. I build full-stack systems that connect real-time data ingestion pipelines, machine learning inference, and LLM reasoning chains into cohesive, scalable production environments. Alongside software engineering, I have a deep interest in defense technology, cloud infrastructure, and pushing the limits of local ML compute.
 
