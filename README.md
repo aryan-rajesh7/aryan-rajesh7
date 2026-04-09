@@ -25,7 +25,7 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 * **Architecture:** Built a highly asynchronous FastAPI backend that ingests live TomTom API telemetry and pushes it to a Next.js frontend via persistent WebSockets.
 * **Machine Learning:** Engineered a dual-model pipeline using a PyTorch LSTM for time-series forecasting and an XGBoost regressor for tabular feature importance to predict congestion volatility.
 * **Reasoning Engine:** Implemented a fully stateless Retrieval-Augmented Generation (RAG) pipeline using Google Gemini 2.5 Flash to generate live, human-readable signal timing recommendations based on real-time street conditions.
-* **Performance:** Developed a C++ `pybind11` extension module for high-speed computation and deployed the system across Vercel and Hugging Face Spaces with $0/month hosting costs.
+* **Performance:** Developed a C++ `pybind11` extension module for high-speed computation and deployed the system across Vercel and Render.
 
 ### Nexus + Lex3D Suite
 > An offline, cross-modal generative AI framework engineered for local execution on Apple Silicon.
