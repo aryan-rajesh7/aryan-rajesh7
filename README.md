@@ -1,10 +1,10 @@
-# Hello, I'm Aryan Rajesh 👋
+# Hello, I'm Aryan Rajesh
 
 I am a Computer Science student at UC Irvine with a strong focus on architecting end-to-end AI applications and agents. I build full-stack systems that connect real-time data ingestion pipelines, machine learning inference, and LLM reasoning chains into cohesive, scalable production environments.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -17,7 +17,7 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### AI Traffic Signal Optimizer
 > A real-time, full-stack predictive modeling and GIS platform designed to optimize urban street-level vehicle flow.
