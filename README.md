@@ -37,7 +37,7 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 * **LinkedIn:** [Aryan Rajesh](https://www.linkedin.com/in/aryan-rajesh7)
 * **Hugging Face:** [@aryan-rajesh7](https://huggingface.co/aryan-rajesh7)
