@@ -21,10 +21,10 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 
 ### FlightRights
 > A full-stack AI-powered web application that determines passenger compensation and refund eligibility under U.S. Department of Transportation (DOT) guidelines.
-* **Architecture:** Built a FastAPI backend and Next.js frontend that combines LLM reasoning with deterministic business logic for accurate flight rights analysis.
-* **LLM Pipeline:** Engineered a three-stage Groq Llama 3 workflow to extract structured flight facts, compute DOT entitlements, and generate concise explanations from natural language.
-* **Decision Engine:** Implemented rule-based refund and compensation logic alongside airline-specific customer service commitments sourced from a verified static dataset.
-* **Frontend:** Designed a modern, responsive interface with custom Vanilla CSS to deliver clear, explainable passenger rights assessments.
+* **LLM Pipeline:** Built a three-stage FastAPI backend using Groq Llama 3 to extract structured flight facts from natural language, compute DOT entitlements, and generate concise explanations.
+* **Decision Engine:** Implemented deterministic business logic and airline-specific policy lookups using a verified static dataset of customer service commitments.
+* **Frontend:** Developed a modern Next.js application with a responsive interface that communicates with the FastAPI backend through a unified REST API endpoint.
+* **Architecture:** Combined LLM reasoning with deterministic rule-based evaluation to deliver accurate, explainable flight compensation and airline commitment assessments.
 
 ### AI Traffic Signal Optimizer
 > A real-time, full-stack predictive modeling and GIS platform designed to optimize urban street-level vehicle flow.
