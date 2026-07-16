@@ -9,7 +9,7 @@ I am a Computer Science student at UC Irvine with a strong focus on architecting
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, TypeScript, JavaScript, C++, C#, Java, HTML, CSS, SQL |
-| **Machine Learning & AI** | PyTorch, XGBoost, ONNX, scikit-learn, NumPy, pandas, Google Gemma 3.0, RAG, LangChain |
+| **Machine Learning & AI** | PyTorch, XGBoost, scikit-learn, NumPy, pandas, Google Gemma 3.0, RAG, LangChain |
 | **Backend** | FastAPI, Uvicorn, Celery, Redis, pybind11, WebSockets |
 | **Frontend** | Next.js 14, React 18, Tailwind CSS, MapLibre GL JS |
 | **DevOps & Cloud** | Docker, GitHub Actions (CI/CD), Vercel, Hugging Face Spaces, Render, Koyeb |
